@@ -2,28 +2,15 @@
 
          { 
            
-                 "name": "The German Empire", 
-
-		 "personality": "Wilhelm II",
-
+                 "name": "松川皇国", 
+		 "personality": "ブロクス皇帝",
                  "style": "Germanic",
-
-                 "leaderName": "Kaiser Wilhelm II", 
-
-                 "adjective": ["German"], 
-
+                 "leaderName": "ブロクス皇帝", 
+                 "adjective": ["matugawa"], 
                  "startBias": ["Plains"], 
-
                  "preferredVictoryType": "Domination", 
-
-  
-
                  "startIntroPart1": "...", 
-
                  "startIntroPart2": "Will you build a civilization that will stand the test of time?", 
-
-  
-
                  "declaringWar": "Let it be known, You are an enemy of Germany and the German people!", 
 
                  "attacked": "What? Really?", 
