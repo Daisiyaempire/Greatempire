@@ -16,7 +16,7 @@
                  "innerColor": [136, 138, 137], 
 			 "favoredReligion": "Christianity",
                  "uniqueName": "Für Das Vaderland", 
-                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Neuschwanstein] [Capital]"],
+                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Great Person] [Capital]"],
                   "cities": ["村井都","宮川府","今川府","雪海道","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
          },
 	{ 
@@ -56,7 +56,7 @@
                  "innerColor": [136, 138, 137], 
 			 "favoredReligion": "Christianity",
                  "uniqueName": "Für Das Vaderland", 
-                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [Capital]"],
+                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Neuschwanstein] [Capital]"],
                   "cities": ["ツラハ","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
 			},
 	        { 
