@@ -17,7 +17,7 @@
 			 "favoredReligion": "Christianity",
                  "uniqueName": "Für Das Vaderland", 
                   "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [Capital]"],
-                  "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
+                  "cities": ["村井都","宮川府","今川府","雪海道","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
          },
 	{ 
                  "name": "豆帝国", 
@@ -37,7 +37,7 @@
 			 "favoredReligion": "Christianity",
                  "uniqueName": "Für Das Vaderland", 
                   "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [Capital]"],
-                  "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
+                  "cities": ["？","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
 			},
 	        { 
                  "name": "チェルバキア連合王国", 
@@ -57,7 +57,7 @@
 			 "favoredReligion": "Christianity",
                  "uniqueName": "Für Das Vaderland", 
                   "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [Capital]"],
-                  "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
+                  "cities": ["ツラハ","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
 			},
 	        { 
                  "name": "リー・ダイシヤ帝国", 
@@ -77,6 +77,6 @@
 			 "favoredReligion": "Christianity",
                  "uniqueName": "Für Das Vaderland", 
                   "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [Capital]"],
-                  "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
+                  "cities": ["黒猫都","帝羅府","レーベ","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
 			}
 ]
