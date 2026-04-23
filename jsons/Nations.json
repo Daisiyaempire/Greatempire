@@ -1,7 +1,5 @@
 [ 
-
          { 
-           
                  "name": "松川皇国", 
                  "leaderName": "ブロクス皇帝", 
                  "adjective": ["matugawa"], 
@@ -12,8 +10,7 @@
                  "attacked": "進め！", 
                  "defeated": "我々は負けてしまった…しかし松川皇国は再び甦るだろう…", 
                  "introduction": "Welcome, I am Kaiser Wilhelm II, Kaiser of the German people.", 
-                 "neutralHello": "我 七宗丸なり！", 
-                 "hateHello": "どうした！", 
+                 "neutralHello": "我 七宗丸なり！",  
                  "tradeRequest": "我が国と取引をしないか！", 
                  "outerColor": [166, 2, 2], 
                  "innerColor": [136, 138, 137], 
@@ -21,5 +18,25 @@
                  "uniqueName": "Für Das Vaderland", 
                   "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [Capital]"],
                   "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
-         }
-  ]
+         },
+	{ 
+                 "name": "豆帝国", 
+                 "leaderName": "マメミン", 
+                 "adjective": ["mametei"], 
+                 "startBias": ["Plains"], 
+                 "preferredVictoryType": "Diplomatic", 
+                 "startIntroPart1": "マメニトニアと共に進め！", 
+                 "declaringWar": "我々とマメニトニアを敵に回したな！", 
+                 "attacked": "怯むな！", 
+                 "defeated": "なんで…負けるんね…", 
+                 "introduction": "Welcome, I am Kaiser Wilhelm II, Kaiser of the German people.", 
+                 "neutralHello": "やぁ！ マメミンだよ！",  
+                 "tradeRequest": "我が国と取引をしよぉ！", 
+                 "outerColor": [166, 2, 2], 
+                 "innerColor": [136, 138, 137], 
+			 "favoredReligion": "Christianity",
+                 "uniqueName": "Für Das Vaderland", 
+                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [Capital]"],
+                  "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
+			}
+]
