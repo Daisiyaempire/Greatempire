@@ -7,33 +7,19 @@
                  "adjective": ["matugawa"], 
                  "startBias": ["Plains"], 
                  "preferredVictoryType": "Domination", 
-                 "startIntroPart1": "...", 
+                 "startIntroPart1": "松川皇国に負けなし！", 
                  "declaringWar": "Let it be known, You are an enemy of Germany and the German people!", 
                  "attacked": "What? Really?", 
                  "defeated": "The German empire may have fallen... But Germany will remember me as THE Kasier.", 
                  "introduction": "Welcome, I am Kaiser Wilhelm II, Kaiser of the German people.", 
-                 "neutralHello": "Guten tag.", 
+                 "neutralHello": "我 七宗丸なり！", 
                  "hateHello": "What do YOU want?!", 
                  "tradeRequest": "Trade with me.", 
-
-  
-
                  "outerColor": [166, 2, 2], 
-
                  "innerColor": [136, 138, 137], 
-
-		 "favoredReligion": "Christianity",
-                  
+			 "favoredReligion": "Christianity",
                  "uniqueName": "Für Das Vaderland", 
-                  
                   "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [Capital]"],
-
-                 
-                  
-                  "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", 
-
-                         "Hamburg","Dusseldorf","Bremen","Madgeburg"]
-                  
-                  
+                  "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", "Hamburg","Dusseldorf","Bremen","Madgeburg"]       
          }
   ]
