@@ -62,7 +62,7 @@
 	        { 
                  "name": "リー・ダイシヤ帝国", 
                  "leaderName": "ダイ　皇帝", 
-				"icon": ""
+				"icon": "image_c8e4b571.png"
                  "adjective": ["tukimi"], 
                  "startBias": ["Plains"], 
                  "preferredVictoryType": "Domination", 
